@@ -1,0 +1,41 @@
+*{
+      margin: 0px;
+      padding: 0px;
+      box-sizing:border-box;
+}
+body{
+    width: 100%;
+    background-image: url("realistic-polygonal-background_52683-60029.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+nav{
+      width: 100%;
+      height: 75px;
+      line-height: 75px;
+      padding:0px 120px;
+}
+nav h1{
+    font-size: 32px;
+    font-family:"Times New Roman",serif;
+    color: rosybrown;
+    text-transform: uppercase;
+    float: left;
+}
+nav ul{
+    float: right;
+}
+nav ul li{
+    float: left;
+    list-style: none;
+    position: relative;
+}
+nav ul li a{
+    text-decoration: none;
+    font-family:"Times New Roman",serif;
+    color: rosybrown;
+    font-size:9px;
+    padding: 0px 16px;
+    display: block;
+}
+

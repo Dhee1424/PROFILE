@@ -1,0 +1,11 @@
+body{
+	width: 100%;
+    background-image: url("realistic-polygonal-background_52683-60029.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+}
+table, th, td {
+  border: 3px solid black;
+  border-collapse: collapse;
+}
